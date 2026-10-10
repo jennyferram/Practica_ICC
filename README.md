@@ -1,4 +1,5 @@
 #Practica01
+
 Profesor: Salvador López Mendoza
 Ayudante: Yanahí Demerio Torres
 Ayudante de Laboratorio: Rosa Victoria Villa Padilla
